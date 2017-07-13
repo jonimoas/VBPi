@@ -1,0 +1,18 @@
+C:\Documents and Settings\j0n1\My Documents\Visual Studio 2008\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Documents and Settings\j0n1\My Documents\Visual Studio 2008\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Documents and Settings\j0n1\My Documents\Visual Studio 2008\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.xml
+C:\Documents and Settings\j0n1\My Documents\Visual Studio 2008\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\j0n1\My Documents\Visual Studio 2008\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Documents and Settings\j0n1\My Documents\Visual Studio 2008\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.vbproj.GenerateResource.Cache
+C:\Documents and Settings\j0n1\My Documents\Visual Studio 2008\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Documents and Settings\j0n1\My Documents\Visual Studio 2008\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.xml
+C:\Documents and Settings\j0n1\My Documents\Visual Studio 2008\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\olddisk2\olddisk\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\olddisk2\olddisk\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.xml
+C:\olddisk2\olddisk\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\olddisk2\olddisk\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\olddisk2\olddisk\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\olddisk2\olddisk\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.xml
+C:\olddisk2\olddisk\ConsoleApplication4\ConsoleApplication4\obj\Debug\ResolveAssemblyReference.cache
+C:\olddisk2\olddisk\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication1.Resources.resources
+C:\olddisk2\olddisk\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.vbproj.GenerateResource.Cache
